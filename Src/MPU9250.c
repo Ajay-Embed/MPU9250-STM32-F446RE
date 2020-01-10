@@ -1,7 +1,7 @@
 /*
  * Date created   - 12/11/2019
  * Author 		  - Ajay
- * Organization   - Fupro Innovation Private Limited
+ *
 
  * MPU9250.c
  *
