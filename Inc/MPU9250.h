@@ -2,7 +2,7 @@
  * MPU9250.h
  *
  *  Created on: 08-Nov-2019
- *      Author: blueh
+ *      Author: Ajay
  */
 
 #ifndef MPU9250_H_
